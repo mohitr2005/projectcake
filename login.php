@@ -1,5 +1,5 @@
 <?php
-include "connect.php";
+include "database.php";
 ob_start();
 
   $em=NULL;
