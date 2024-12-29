@@ -6,7 +6,9 @@
   <title>navbar</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-  <link rel="stylesheet" href="navbar.css">
+  <link rel="stylesheet" href="nav.css">
+  <style>
+  </style>
 </head>
 <body>
   <form action="">
@@ -25,10 +27,7 @@
                   </div>
                </div>
 
-                <div class="nav-search">
-                  <select class="search-select">
-                    <option>All</option>
-                  </select>
+                <div class="nav-search border">
                   <input type="text" placeholder="Search Cake" class="search-input">
                   <div class="search-icon">
                     <i class="fa-solid fa-magnifying-glass"></i>
@@ -37,7 +36,7 @@
 
               <div class="nav-singin border">
                 <i class="fa-regular fa-user"></i>
-                <p>Login/Signup</p>
+               
               </div>
               
               <div class="hart border">
@@ -46,7 +45,7 @@
 
               <div class="nav-cart border">
                 <i class="fa-solid fa-cart-shopping"></i>
-                Cart
+                
               </div>
       </div>  
 
