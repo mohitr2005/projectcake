@@ -32,6 +32,10 @@
       font-size: large;
       text-align: center;
     }
+    .box-content a{
+      text-decoration: none;
+      color: black;
+    }
     .box-content p{
       font-weight: 600;
     }

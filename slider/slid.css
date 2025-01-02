@@ -3,12 +3,13 @@
  }
  
  .image-carousel {
-  height: 20px;
+  height: 25.7rem;
    width: 70%;
    overflow: hidden;
    border-radius: 10px;
    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
    margin-top: 4px;
+   margin-bottom: 7px;;
    position: relative;
    left:15%;
  }
